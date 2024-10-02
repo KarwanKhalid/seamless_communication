@@ -21,7 +21,6 @@ setup(
     url="https://github.com/facebookresearch/seamless_communication",
     license="Creative Commons",
     install_requires=[
-        "datasets==2.18.0",
         "fire",
         "librosa",
         "openai-whisper",
